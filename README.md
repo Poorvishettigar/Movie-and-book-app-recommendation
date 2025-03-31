@@ -4,3 +4,4 @@ Commands Required to run
 npm run dev
 Note: If you find no movies/books available, please refresh.
 Images for reference
+add .env.local file with your tmdb api key
