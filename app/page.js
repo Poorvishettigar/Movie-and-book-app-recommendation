@@ -3,8 +3,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div className="text-center">
-      <h1>Welcome to Movie/Book Recommendation App</h1>
-      <p>Browse movies and books, save your favorites!</p>
+      <h1>Welcome to BiblioFlix😎</h1>
+      <p>One stop for Vibe and Peace. Browse movies and books, save your favorites!</p>
       <Image 
         src="/image.jpeg"  
         alt="Movie and Book Recommendation Banner"
@@ -15,3 +15,4 @@ export default function Home() {
     </div>
   );
 }
+
